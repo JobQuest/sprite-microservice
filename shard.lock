@@ -28,6 +28,10 @@ shards:
     git: https://github.com/elorest/compiled_license.git
     version: 0.1.3
 
+  cossack:
+    git: https://github.com/crystal-community/cossack.git
+    version: 0.1.4
+
   db:
     git: https://github.com/crystal-lang/crystal-db.git
     version: 0.10.0

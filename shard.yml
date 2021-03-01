@@ -45,6 +45,10 @@ dependencies:
     github: amberframework/citrine-i18n
     version: ~> 0.4.0
 
+  cossack:
+    github: crystal-community/cossack
+    version: ~> 0.1
+
 development_dependencies:
   garnet_spec:
     github: amberframework/garnet-spec
